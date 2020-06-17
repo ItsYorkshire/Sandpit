@@ -1,8 +1,4 @@
 ---
-layout: default
-title: "Happy Jekylling!"
+layout: my-fancy-layout
 ---
-
-## You're ready to go!
-
-Start developing your Jekyll website.
+<h1>Hello, World!</h1>
